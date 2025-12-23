@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "it’s okay",
+  "base_artist": "LANA",
+  "createdAt": "2025-12-23T13:15:08.558618Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It's Not Right But It's Okay",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/01_It's_Not_Right_But_It's_Okay_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It’s Not Right but It’s Okay",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/02_It’s_Not_Right_but_It’s_Okay_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It's Okay to Cry, Boy",
+      "artist": "Deaton Chris Anthony",
+      "has_synced": false,
+      "path": "select/03_It's_Okay_to_Cry,_Boy_Deaton_Chris_Anthony.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It's Okay To Think About Ending",
+      "artist": "Earlimart",
+      "has_synced": true,
+      "path": "select/04_It's_Okay_To_Think_About_Ending_Earlimart.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It's Okay to Cry",
+      "artist": "SOPHIE",
+      "has_synced": true,
+      "path": "select/05_It's_Okay_to_Cry_SOPHIE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "It's Not Right But It's Okay",
+      "artist": "Whitney Houston",
+      "has_synced": true,
+      "path": "select/06_It's_Not_Right_But_It's_Okay_Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It's Okay",
+      "artist": "Des'ree",
+      "has_synced": true,
+      "path": "select/07_It's_Okay_Des'ree.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It's Okay - Radio Edit",
+      "artist": "Des'ree",
+      "has_synced": false,
+      "path": "select/08_It's_Okay_-_Radio_Edit_Des'ree.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It's Okay (Stargate Radio Edit)",
+      "artist": "Des'ree",
+      "has_synced": true,
+      "path": "select/09_It's_Okay_(Stargate_Radio_Edit)_Des'ree.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It's Okay (Album Version)",
+      "artist": "Des'ree",
+      "has_synced": true,
+      "path": "select/10_It's_Okay_(Album_Version)_Des'ree.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "It's Okay To Cry",
+      "artist": "SOPHIE",
+      "has_synced": true,
+      "path": "select/11_It's_Okay_To_Cry_SOPHIE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tell Me It's Okay - Demo",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/12_Tell_Me_It's_Okay_-_Demo_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tell Me It's Okay (Self-Titled Demo) (Explicit)",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/13_Tell_Me_It's_Okay_(Self-Titled_Demo)_(Explicit)_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It’s Okay to Cry",
+      "artist": "Sophie",
+      "has_synced": true,
+      "path": "select/14_It’s_Okay_to_Cry_Sophie.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "It's Not Right But It's Okay",
+      "artist": "Whitney Houston",
+      "has_synced": true,
+      "path": "select/15_It's_Not_Right_But_It's_Okay_Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Tell Me It’s Okay (Self‐Titled demo)",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/16_Tell_Me_It’s_Okay_(Self‐Titled_demo)_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "tell me it's okay",
+      "artist": "Garrett Nash",
+      "has_synced": true,
+      "path": "select/17_tell_me_it's_okay_Garrett_Nash.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Tell Me It's Okay",
+      "artist": "gnash",
+      "has_synced": false,
+      "path": "select/18_Tell_Me_It's_Okay_gnash.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "it's okay",
+      "artist": "LANA",
+      "has_synced": false,
+      "path": "select/pl_01_it's_okay_LANA.txt"
+    }
+  ]
+}
